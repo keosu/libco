@@ -30,12 +30,6 @@ PS: **近期将开源PaxosStore，敬请期待。**
 
 ### Build
 
-```bash
-$ cd /path/to/libco
-$ make
-```
-
-or use cmake
 
 ```bash
 $ cd /path/to/libco
